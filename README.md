@@ -92,15 +92,15 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAIDERALiiii01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haideraliiii01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=HAIDERALiiii01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=haideraliiii01&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAIDERALiiii01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haideraliiii01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -108,13 +108,23 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/haii_d_er">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+
+  <a href="https://instagram.com/haii_d_er" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=instagram" 
+      height="40"
+      style="margin: 0 10px; filter: drop-shadow(0 0 8px #E1306C);"
+    />
   </a>
-  
-  <a href="mailto:haiderali13082005@gmail.com?subject=Hello%20Haider!&body=Hi%20Haider,%0A%0A" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=gmail" 
+      height="40"
+      style="margin: 0 10px; filter: drop-shadow(0 0 8px #EA4335);"
+    />
   </a>
+
 </p>
 
 ---
