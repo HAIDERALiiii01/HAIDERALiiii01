@@ -63,31 +63,6 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 <tr>
 <td width="50%">
 
-### 🎯 Project Title 3  
-<p align="center">
-  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
-</p>
-
-- 📌 Key feature or idea  
-- ⚙️ Tech: Python, AI  
-- 🔗 https://github.com/haideraliiii01/project-link  
-
-</td>
-
-<td width="50%">
-
-### 🎯 Project Title 4  
-<p align="center">
-  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
-</p>
-
-- 📌 Short description  
-- ⚙️ Tech: Your stack  
-- 🔗 https://github.com/haideraliiii01/project-link  
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -137,4 +112,4 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 ### 💡 Quote
 
-> "Small consistent progress beats sudden motivation."
+> **"Small consistent progress beats sudden motivation."**
