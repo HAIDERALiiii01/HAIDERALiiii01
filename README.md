@@ -1,59 +1,120 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">Building skills, creating projects, and aiming to use technology to make a real-world impact.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=HAIDERALiiii01&label=Profile%20views&color=0e75b6&style=flat" alt="HAIDERALiiii01" /> 
+<h3 align="center">
+A passionate AI & Computer Vision developer building real-world projects 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Vision+Developer;AI+%26+Machine+Learning+Learner;Building+Real-Time+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HAIDERALiiii01" alt="HAIDERALiiii01" />
-  </a> 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Working on **Computer Vision (real-time tracking, cloning effects, AI apps)**  
+- 🌱 Learning **LLMs, Machine Learning, AI fundamentals**  
+- 🤝 Open to **AI / ML collaborations**  
+- ⚡ Fun fact: *I may be quiet, but my code is getting louder every day.*
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,git,html,css,selenium,pandas" />
 </p>
 
-- 🔭 I’m currently working on **Computer Vision projects (real-time tracking, cloning effects, and AI-based applications).**
+---
 
-- 🌱 I’m currently learning **Large Language Models (LLMs), Machine Learning, and AI fundamentals.**
+### 🚀 Featured Projects
 
-- 👯 I’m looking to collaborate on **Open-source AI / Machine Learning projects.**
+<table>
+<tr>
+<td width="50%">
 
-- 🤝 I’m looking for help with **Improving performance and optimization in my projects.**
+### 🎯 Project Title 1  
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
 
-- 💬 Ask me about **Python, Computer Vision, and LLMs.**
+- 📌 Short description of your project  
+- ⚙️ Tech: Python, OpenCV, etc  
+- 🔗 https://github.com/YOUR_USERNAME/project-link  
 
-- 📫 How to reach me **haiderali13082005@gmail.com**
+</td>
 
-- ⚡ Fun fact **I may be quiet, but my code is getting louder every day.**
+<td width="50%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/haii_d_er" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haii_d_er" height="30" width="40" />
+### 🎯 Project Title 2  
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
+
+- 📌 What problem it solves  
+- ⚙️ Tech: TensorFlow, ML, etc  
+- 🔗 https://github.com/YOUR_USERNAME/project-link  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎯 Project Title 3  
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
+
+- 📌 Key feature or idea  
+- ⚙️ Tech: Python, AI  
+- 🔗 https://github.com/YOUR_USERNAME/project-link  
+
+</td>
+
+<td width="50%">
+
+### 🎯 Project Title 4  
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
+
+- 📌 Short description  
+- ⚙️ Tech: Your stack  
+- 🔗 https://github.com/YOUR_USERNAME/project-link  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAIDERALiiii01&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=HAIDERALiiii01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAIDERALiiii01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/haii_d_er">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a> 
-</p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAIDERALiiii01&show_icons=true&locale=en&layout=compact" />
-</p>
+### 💡 Quote
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAIDERALiiii01&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HAIDERALiiii01" />
-</p>
+> "Small consistent progress beats sudden motivation."
