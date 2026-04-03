@@ -15,7 +15,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 - 🔭 Working on **Computer Vision (real-time tracking, cloning effects, AI apps)**  
 - 🌱 Learning **LLMs, Machine Learning, AI fundamentals**  
 - 🤝 Open to **AI / ML collaborations**  
-- ⚡ Fun fact: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=00FF00&center=true&vCenter=true&lines=Dark+mode+attracts+bugs...;so+I+can+hunt+them+better." />
+- ⚡ Fun fact: **Even BATMAN🦇 prefers dark mode.**  
 
 ---
 
