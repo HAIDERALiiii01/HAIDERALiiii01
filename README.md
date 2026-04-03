@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Haider Ali</h1>
 
+<p align="center">
+
+  <img src="https://media1.tenor.com/m/6ZhzHHYyNxoAAAAC/luffy.gif" alt="Gear 3" width="800"/>
+
+</p>
+
 <h3 align="center">
 A passionate AI & Computer Vision developer building real-world projects 🚀
 </h3>
