@@ -5,7 +5,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;AI+%26+Machine+Learning+&+Computer+Vision+Learner;Building+Real-Time+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&lines=Python+Developer;AI+%26+Machine+Learning+%26+Computer+Vision;Building+Real-Time+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 Short description of your project  
 - ⚙️ Tech: Python, OpenCV, etc  
-- 🔗 https://github.com/YOUR_USERNAME/project-link  
+- 🔗 https://github.com/haideraliiii01/project-link  
 
 </td>
 
@@ -53,7 +53,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 What problem it solves  
 - ⚙️ Tech: TensorFlow, ML, etc  
-- 🔗 https://github.com/YOUR_USERNAME/project-link  
+- 🔗 https://github.com/haideraliiii01/project-link  
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 Key feature or idea  
 - ⚙️ Tech: Python, AI  
-- 🔗 https://github.com/YOUR_USERNAME/project-link  
+- 🔗 https://github.com/haideraliiii01/project-link  
 
 </td>
 
@@ -81,7 +81,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 Short description  
 - ⚙️ Tech: Your stack  
-- 🔗 https://github.com/YOUR_USERNAME/project-link  
+- 🔗 https://github.com/haideraliiii01/project-link  
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   
-  <a href="mailto:haiderali13082005@gmail.com">
+  <a href="mailto:haiderali13082005@gmail.com?subject=Hello%20Haider!&body=Hi%20Haider,%0A%0A" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
