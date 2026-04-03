@@ -15,7 +15,9 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 - 🔭 Working on **Computer Vision (real-time tracking, cloning effects, AI apps)**  
 - 🌱 Learning **LLMs, Machine Learning, AI fundamentals**  
 - 🤝 Open to **AI / ML collaborations**  
-- ⚡ Fun fact: *I may be quiet, but my code is getting louder every day.*
+- ⚡ Fun fact: <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FF00&center=true&vCenter=true&lines=Dark+mode+attracts+bugs...;so+I+can+hunt+them+better." />
+  </p>
 
 ---
 
@@ -111,19 +113,21 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 <p align="center">
 
-  <a href="https://instagram.com/haii_d_er" target="_blank">
+  <!-- Instagram -->
+  <a href="https://instagram.com/haii_d_er">
     <img 
       src="https://skillicons.dev/icons?i=instagram" 
-      height="40"
-      style="margin: 0 10px; filter: drop-shadow(0 0 8px #E1306C);"
+      height="45"
+      style="margin: 0 15px; filter: drop-shadow(0 0 8px #E1306C);"
     />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A" target="_blank">
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A">
     <img 
       src="https://skillicons.dev/icons?i=gmail" 
-      height="40"
-      style="margin: 0 10px; filter: drop-shadow(0 0 8px #EA4335);"
+      height="45"
+      style="margin: 0 15px; filter: drop-shadow(0 0 8px #EA4335);"
     />
   </a>
 
