@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haider Ali</h1>
+<h1 align="center">Hi 👋🏻, I'm Haider Ali</h1>
 
 <h3 align="center">
 A passionate AI & Computer Vision developer building real-world projects 🚀
@@ -15,9 +15,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 - 🔭 Working on **Computer Vision (real-time tracking, cloning effects, AI apps)**  
 - 🌱 Learning **LLMs, Machine Learning, AI fundamentals**  
 - 🤝 Open to **AI / ML collaborations**  
-- ⚡ Fun fact: <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FF00&center=true&vCenter=true&lines=Dark+mode+attracts+bugs...;so+I+can+hunt+them+better." />
-  </p>
+- ⚡ Fun fact: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=00FF00&center=true&vCenter=true&lines=Dark+mode+attracts+bugs...;so+I+can+hunt+them+better." />
 
 ---
 
@@ -35,27 +33,27 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 <tr>
 <td width="50%">
 
-### 🎯 Project Title 1  
+### 🎯 Project Title 1
 <p align="center">
   <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
 </p>
 
 - 📌 Short description of your project  
 - ⚙️ Tech: Python, OpenCV, etc  
-- 🔗 https://github.com/haideraliiii01/project-link  
+- 🔗 [GitHub Link](https://github.com/haideraliiii01/project-link)  
 
 </td>
 
 <td width="50%">
 
-### 🎯 Project Title 2  
+### 🎯 Project Title 2
 <p align="center">
   <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
 </p>
 
 - 📌 What problem it solves  
 - ⚙️ Tech: TensorFlow, ML, etc  
-- 🔗 https://github.com/haideraliiii01/project-link  
+- 🔗 [GitHub Link](https://github.com/haideraliiii01/project-link)  
 
 </td>
 </tr>
@@ -63,6 +61,31 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 <tr>
 <td width="50%">
 
+### 🎯 Project Title 3
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
+
+- 📌 Key feature or idea  
+- ⚙️ Tech: Python, AI  
+- 🔗 [GitHub Link](https://github.com/haideraliiii01/project-link)  
+
+</td>
+
+<td width="50%">
+
+### 🎯 Project Title 4
+<p align="center">
+  <img src="YOUR_GIF_OR_IMAGE_LINK" width="100%">
+</p>
+
+- 📌 Short description  
+- ⚙️ Tech: Your stack  
+- 🔗 [GitHub Link](https://github.com/haideraliiii01/project-link)  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,7 +112,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 <p align="center">
 
   <!-- Instagram -->
-  <a href="https://instagram.com/haii_d_er">
+  <a href="https://instagram.com/haii_d_er" target="_blank">
     <img 
       src="https://skillicons.dev/icons?i=instagram" 
       height="45"
@@ -98,7 +121,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
   </a>
 
   <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A" target="_blank">
     <img 
       src="https://skillicons.dev/icons?i=gmail" 
       height="45"
