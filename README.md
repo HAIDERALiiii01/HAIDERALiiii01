@@ -5,7 +5,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Vision+Developer;AI+%26+Machine+Learning+Learner;Building+Real-Time+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;AI+%26+Machine+Learning+&+Computer+Vision+Learner;Building+Real-Time+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -108,9 +108,13 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/haii_d_er">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+  <a href="https://instagram.com/haii_d_er">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  
+  <a href="mailto:haiderali13082005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
 ---
