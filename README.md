@@ -39,7 +39,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 Perform a hand sign and your shadow clones appear in real time
 - ⚙️ Tech: Python, MediaPipe, TFLite, OpenCV
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204/shadow_clone_jujutsu)
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204/Shadow_Clone_Jujutsu)
 
 </td>
 <td width="50%">
@@ -51,7 +51,7 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 - 📌 Select a folder, press SNAP, and half of everything is permanently deleted
 - ⚙️ Tech: Python, PySide6, Animations
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%201/Snap)
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202/Snap)
 
 </td>
 </tr>
@@ -60,24 +60,24 @@ A passionate AI & Computer Vision developer building real-world projects 🚀
 
 ### ✈️ FlightAI — With Image Generation
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdnbHZkZHZmaHJ2ZDNxdzQ4cjZhbnhvMGtnaWRxd2hqaWlncHdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzCLJGxXQbwH09jzq0/giphy.gif" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9odjRmcGZjMHRzOXkzamFmNnZqaHVqNDNjNnNzODY2bXB1dDJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Btn42lfKKrOzS/giphy.gif" width="100%">
 </p>
 
 - 📌 Ask about flights, get the price, and watch DALL-E paint your destination
 - ⚙️ Tech: Python, GPT-4o-mini, DALL-E 3, Gradio
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202/FlightAI)
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/FlightAi(with%20image%20generation))
 
 </td>
 <td width="50%">
 
 ### 📄 Brochure Generator — AI Based
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F5ZGpibXl5NDFicWhiM2l0MmFycWd6ZmxoY3FpYzh5NTdvYnJtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zX8dXeARiarZJ3ix9c/giphy.gif" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhtOXZ1ZGNtOHIyMG1jNzQzcmNpeHpybmQ5dHQ3Yml3dTBvNm4zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zJ5udfK9zBcyJDD7xz/giphy.gif" width="100%">
 </p>
 
 - 📌 Paste a company URL and get a full AI-generated brochure instantly
 - ⚙️ Tech: Python, GPT-4o-mini, Gemini 2.0, Gradio, BeautifulSoup
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202/Brochure_Generator)
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/Brochure_Generator(Ai_based))
 
 </td>
 </tr>
