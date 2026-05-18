@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/6ZhzHHYyNxoAAAAC/luffy.gif" alt="Gear 3" width="800"/>
 </p>
 <h3 align="center">
-A passionate AI & Computer Vision developer building real-world projects 🚀
+A passionate AI & Machine Learning developer building real-world projects 🚀
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+ML%2FAI;Building+Personal+Projects&cursor=|" />
