@@ -29,7 +29,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ### 🗂️ ProjecTss — My Project Repository
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemoxa2Zkd2piZTY2MGw4dXZrNXNoczJtMmltcjh4OXYxeWd3czBvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" alt="Gear 1" width="800"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNidGRqbGV3eW54M3d0NjNqb3JqcWVhdTNwZWVzbXd0ajhrOTNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqwEfwktDpy5GpwrkK/giphy.gif" alt="Gear 1" width="800"/>
 </p>
 
 > 🔗 **[github.com/HAIDERALiiii01/ProjecTss](https://github.com/HAIDERALiiii01/ProjecTss)**
