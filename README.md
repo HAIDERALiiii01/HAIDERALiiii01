@@ -29,7 +29,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ### 🗂️ ProjecTss — My Project Repository
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNidGRqbGV3eW54M3d0NjNqb3JqcWVhdTNwZWVzbXd0ajhrOTNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqwEfwktDpy5GpwrkK/giphy.gif" alt="Gear 1" width="800"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hhNXluYXZ3MDUxaHJyandra242OXlmOTNzZjFnMDFlNGh2d3ZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5dZskQRBojYY/giphy.gif" alt="Gear 1" width="800"/>
 </p>
 
 > 🔗 **[github.com/HAIDERALiiii01/ProjecTss](https://github.com/HAIDERALiiii01/ProjecTss)**
@@ -42,21 +42,21 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 <tr>
 <td width="50%" align="center">
 
-### ⚙️ Gear 1
+### Gear 1
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNjNHJoYXp3dmFnM3c4bGsya21nMDZiMXFnOG95d3duamc3eDRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZ8HKcnfNWCOI/giphy.gif" width="100%" />
 </p>
 
-**The Beginning.** First sparks — foundational projects where everything started.
+**The Beginning.** First sparks, foundational projects where everything started.
 
 🔗 [Explore Gear 1](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%201)
 
 </td>
 <td width="50%" align="center">
 
-### ⚙️⚙️ Gear 2
+### Gear 2
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xejJnePNcOWoHOo/giphy.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXphdTgzZW5wMzNkamVwNGF6cTlvZjloMGczNnVhamNobmQ3dmwyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="100%" />
 </p>
 
 **Leveling Up.** Includes **Snap — The Infinity Gauntlet** and more creative builds.
@@ -68,9 +68,9 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 <tr>
 <td width="50%" align="center">
 
-### ⚙️⚙️⚙️ Gear 3
+### Gear 3
 <p align="center">
-  <img src="https://media.giphy.com/media/Btn42lfKKrOzS/giphy.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkbGt5cmtqOGxzYW9yeGV4b2Q2bXI1OW01MTh2bXdsbmJ1OG15cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T9lEux2hPQYne/giphy.gif" width="100%" />
 </p>
 
 **AI Powered.** **FlightAI** + **Brochure Generator** — LLMs and real-world APIs.
@@ -80,9 +80,9 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 </td>
 <td width="50%" align="center">
 
-### ⚙️⚙️⚙️⚙️ Gear 4
+### Gear 4
 <p align="center">
-  <img src="https://media1.tenor.com/m/W4O0eoqdaREAAAAC/naruto-naruto-shippuden.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxMzJ5OWNieTB6ZDBveTV4MHhxM2E0ZHB3enhiejI0ZDR5MHlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7gdXSIVy5RnEHvFTh/giphy.gif" width="100%" />
 </p>
 
 **Computer Vision.** **Shadow Clone Jujutsu** — MediaPipe, TFLite, real-time hand sign detection.
@@ -96,7 +96,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 ### ⚙️⚙️⚙️⚙️⚙️ Gear 5 — Coming Soon 🔥
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50%" />
+  <img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="50%" />
 </p>
 
 **The Final Form.** Something big is being built. Stay tuned. 👁️
