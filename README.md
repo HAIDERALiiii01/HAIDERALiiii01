@@ -26,6 +26,83 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 ---
 
+### 🗂️ ProjecTss — My Project Repository
+
+> 🔗 **[github.com/HAIDERALiiii01/ProjecTss](https://github.com/HAIDERALiiii01/ProjecTss)**
+>
+> All my projects live here, organized by **Gear** — each level unlocking something more powerful. ⚙️
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚙️ Gear 1
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100%" />
+</p>
+
+**The Beginning.** First sparks — foundational projects where everything started.
+
+🔗 [Explore Gear 1](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%201)
+
+</td>
+<td width="50%" align="center">
+
+### ⚙️⚙️ Gear 2
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xejJnePNcOWoHOo/giphy.gif" width="100%" />
+</p>
+
+**Leveling Up.** Includes **Snap — The Infinity Gauntlet** and more creative builds.
+
+🔗 [Explore Gear 2](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### ⚙️⚙️⚙️ Gear 3
+<p align="center">
+  <img src="https://media.giphy.com/media/Btn42lfKKrOzS/giphy.gif" width="100%" />
+</p>
+
+**AI Powered.** **FlightAI** + **Brochure Generator** — LLMs and real-world APIs.
+
+🔗 [Explore Gear 3](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203)
+
+</td>
+<td width="50%" align="center">
+
+### ⚙️⚙️⚙️⚙️ Gear 4
+<p align="center">
+  <img src="https://media1.tenor.com/m/W4O0eoqdaREAAAAC/naruto-naruto-shippuden.gif" width="100%" />
+</p>
+
+**Computer Vision.** **Shadow Clone Jujutsu** — MediaPipe, TFLite, real-time hand sign detection.
+
+🔗 [Explore Gear 4](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### ⚙️⚙️⚙️⚙️⚙️ Gear 5 — Coming Soon 🔥
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50%" />
+</p>
+
+**The Final Form.** Something big is being built. Stay tuned. 👁️
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
