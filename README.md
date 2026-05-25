@@ -12,7 +12,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **Computer Vision (real-time tracking, cloning effects, AI apps)**
+- 🔭 Working on **Computer Vision, Ai Applications, Personal Projects**
 - 🌱 Learning **LLMs, Machine Learning, AI fundamentals**
 - 🤝 Open to **AI / ML collaborations**
 - ⚡ Fun fact: **Even BATMAN🦇 prefers dark mode.**
@@ -121,4 +121,4 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ---
 
 ### 💡 Quote
-> **"Small consistent progress beats sudden motivation."**
+> **"Do you know that the harder thing to do and the right thing to do are usually the same thing?"**
