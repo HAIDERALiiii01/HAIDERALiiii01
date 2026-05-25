@@ -94,7 +94,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 <tr>
 <td colspan="2" align="center">
 
-### ⚙️⚙️⚙️⚙️⚙️ Gear 5 — Coming Soon 🔥
+### Gear 5 — Coming Soon 🔥
 <p align="center">
   <img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="50%" />
 </p>
