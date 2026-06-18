@@ -49,40 +49,35 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
-# 📖 Character Data Book
+# 👨‍💻 About Me
 
-<table>
+<div align="center">
 
-<tr>
-<td align="center">
+<img src="https://media.tenor.com/sWkOaRAduFgAAAAC/gear-5-luffy.gif" width="180">
 
-<img src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif" width="140">
+</div>
 
-</td>
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<td>
+NAME      : Haider Ali
 
-### 🏴‍☠️ Haider Ali
+CLASS     : AI Developer
 
-⚔️ Class : AI Developer
+SPECIALTY : Computer Vision
 
-🧠 Speciality : Computer Vision
+SUBCLASS  : LLM Engineer
 
-🔥 Secondary Skill : LLMs
+FUEL      : Coffee ☕
 
-☕ Fuel : Coffee
+TRAITS     Introvert • Thinker • Builder
 
-🌙 Personality : Introvert • Thinker • Builder
+STATUS     Gear 5 Awakening...
 
-🎯 Goal : Build products that create impact
+MISSION    Build products that make an impact.
 
-⚡ Status : Gear 5 Loading...
-
-</td>
-
-</tr>
-
-</table># 🍈 DEVIL FRUITS ACQUIRED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```# 🍈 DEVIL FRUITS ACQUIRED
 
 | Fruit | Status |
 |---------|--------|
