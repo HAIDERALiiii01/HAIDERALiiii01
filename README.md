@@ -49,50 +49,39 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
-# 👨‍💻 About Me
+# 📖 Character Data Book
 
 <table>
+
 <tr>
+<td align="center">
 
-<td width="35%" align="center">
-
-<img src="https://media.tenor.com/GY6R7i3vWQ8AAAAi/luffy.gif" width="150">
-
-### 🏴‍☠️ AI Pirate
-
-⚡ Future Tech Builder
-
-☕ Powered by Coffee
-
-🚀 Dream Big. Build Bigger.
+<img src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif" width="140">
 
 </td>
 
-<td width="65%">
+<td>
 
-```yaml
-Role:
-  AI & Machine Learning Developer
+### 🏴‍☠️ Haider Ali
 
-Current Focus:
-  • Computer Vision
-  • LLMs
-  • Deep Learning
-  • AI Applications
+⚔️ Class : AI Developer
 
-Personality:
-  • Introvert
-  • Thinker
-  • Builder
+🧠 Speciality : Computer Vision
 
-Motto:
-  Build in silence.
-  Let the projects speak.
-```
+🔥 Secondary Skill : LLMs
+
+☕ Fuel : Coffee
+
+🌙 Personality : Introvert • Thinker • Builder
+
+🎯 Goal : Build products that create impact
+
+⚡ Status : Gear 5 Loading...
 
 </td>
 
 </tr>
+
 </table># 🍈 DEVIL FRUITS ACQUIRED
 
 | Fruit | Status |
