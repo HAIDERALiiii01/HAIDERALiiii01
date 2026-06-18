@@ -203,6 +203,3 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 ### 💡 Quote
 > **"Do you know that the harder thing to do and the right thing to do are usually the same thing?"**
-
-
-This is my github profile readme file, as you can see its based on one piece theme, luffy's gears because I am fan of one piece. I used gifs to make it look good, gifs of luffy. I need to upgrade this profile, the stats section looks so boring here, you can give advice on how to make it better, I have a thought of using luffy's pixels icon or animated character, you can ask questions to me on what kind of thing I want, it should look appealing, must look cool, looks professional, and also tells me what moderns programmers prefer and do, I have not seen anyone using gifs but I like using gifs and it makes it unique, uniqueness is the key. Don't generate the readme file now, first discuss with me?
