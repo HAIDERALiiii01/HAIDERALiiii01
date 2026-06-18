@@ -1,138 +1,196 @@
-<h1 align="center">Haider Ali</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=F7D046&center=true&vCenter=true&width=700&lines=🏴‍☠️+Haider+Ali;AI+%26+Machine+Learning+Developer;Computer+Vision+Explorer;Building+Real-World+Projects;Gear+5+Awakening+Loading..." />
+</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/6ZhzHHYyNxoAAAAC/luffy.gif" alt="Luffy Gear 3" width="720"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%26+ML+Developer;Computer+Vision+Engineer;Building+Real-World+Projects;Always+Leveling+Up+⚙️&cursor=|" />
-</p>
+<img src="https://media.tenor.com/l2L8J7JQzMIAAAAC/luffy-one-piece.gif" width="250"/>
 
-<p align="center">
-  <a href="https://instagram.com/haii_d_er">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:haiderali13082005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HAIDERALiiii01">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚓ "I don't know everything. But I know I'll never stop learning and building."
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+## 🏴‍☠️ CURRENT ARC
+
+```yaml
+Current Arc:
+    Mastering AI
+
+Next Destination:
+    Gear 5 Awakening (2027)
+
+Status:
+    Building Real-World Products 🚀
+
+Dream:
+    Create things that leave an impact.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/HAIDERALiiii01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:haiderali13082005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://instagram.com/haii_d_er">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:F7D046&height=100&section=footer"/>
+
+</div>
+
+# 🏴‍☠️ About Me
 
 ```python
 haider = {
-    "focus"    : ["Computer Vision", "LLMs", "AI Applications"],
-    "learning" : ["Machine Learning", "Deep Learning", "AI Fundamentals"],
-    "stack"    : ["Python", "OpenCV", "TensorFlow", "MediaPipe", "GPT-4o"],
-    "open_to"  : "AI / ML collaborations",
-    "fun_fact" : "Even BATMAN 🦇 prefers dark mode."
+
+    "role" : "AI & Machine Learning Developer",
+
+    "focus" : [
+        "Computer Vision",
+        "LLMs",
+        "Deep Learning",
+        "AI Applications"
+    ],
+
+    "personality" : [
+        "Introvert",
+        "Thinker",
+        "Builder"
+    ],
+
+    "fuel" : "Coffee ☕",
+
+    "motto" :
+    "Build in silence, let the projects speak."
+
 }
 ```
+# 🍈 Devil Fruits Acquired
 
----
+| Fruit | Power Level |
+|---------|-------------|
+| 🐍 Python no Mi | Awakened |
+| 🔵 C no Mi | Mastered |
+| ⚙️ C++ no Mi | Mastered |
+| 🔥 PyTorch no Mi | Awakening |
+| 👁 OpenCV no Mi | Awakened |
+| 🤖 TensorFlow no Mi | Awakening |
+| 🐼 Pandas no Mi | Awakening |
+| 🌐 Selenium no Mi | Trained |
+| 🗡 Git Git no Mi | Mastered |
+| 🧪 Flask no Mi | Awakening |
 
-## 🧠 Tech Stack
+```
+Python        ██████████ 100%
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,git,html,css,selenium,pandas" />
-</p>
+Computer Vision █████████░ 90%
 
----
+PyTorch       ████████░░ 80%
 
-## ⚙️ ProjecTss — Unlocking Power, One Gear at a Time
+TensorFlow    ███████░░░ 70%
 
-> All my projects live at **[github.com/HAIDERALiiii01/ProjecTss](https://github.com/HAIDERALiiii01/ProjecTss)** — organized by Gear. Each level is a step up.
+LLMs          ████████░░ 80%
 
-<br/>
+System Design ███░░░░░░░ 30%
+```
+# ⚙️ Gear Progress
 
-<table>
-<tr>
-<td width="50%" align="center">
+| Gear | Status |
+|--------|--------|
+| ⚙️ Gear 1 | The Beginning |
+| ⚙️⚙️ Gear 2 | Leveling Up |
+| ⚙️⚙️⚙️ Gear 3 | AI Powered |
+| ⚙️⚙️⚙️⚙️ Gear 4 | Vision King |
+| ⚡ Gear 5 | Awakening |
 
-### ⚙️ Gear 1 — The Beginning
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNjNHJoYXp3dmFnM3c4bGsya21nMDZiMXFnOG95d3duamc3eDRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZ8HKcnfNWCOI/giphy.gif" width="100%" />
+```
+Gear 1 ██████████ 100%
 
-First sparks. Foundational projects where it all started.
+Gear 2 ██████████ 100%
 
-[![Explore](https://img.shields.io/badge/Explore%20Gear%201-181717?style=for-the-badge&logo=github)](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%201)
+Gear 3 ██████████ 100%
 
-</td>
-<td width="50%" align="center">
+Gear 4 ██████████ 100%
 
-### ⚙️⚙️ Gear 2 — Leveling Up
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXphdTgzZW5wMzNkamVwNGF6cTlvZjloMGczNnVhamNobmQ3dmwyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="100%" />
+Gear 5 ███░░░░░░░ 30%
+```
 
-Creative builds — including **Snap: The Infinity Gauntlet**.
+<img src="https://media.tenor.com/5rM0J1QfM8EAAAAC/gear5-luffy.gif" width="250"/>
+# 🗺 Grand Line Journey
 
-[![Explore](https://img.shields.io/badge/Explore%20Gear%202-181717?style=for-the-badge&logo=github)](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202)
+```text
+2019 ─ East Blue
+Curiosity sparked. First line of code.
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+2021 ─ Alabasta
+Learned Python.
+Built small projects.
 
-### ⚙️⚙️⚙️ Gear 3 — AI Powered
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkbGt5cmtqOGxzYW9yeGV4b2Q2bXI1OW01MTh2bXdsbmJ1OG15cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T9lEux2hPQYne/giphy.gif" width="100%" />
+2022 ─ Enies Lobby
+Deep dive into DSA and problem solving.
 
-**FlightAI** + **Brochure Generator** — LLMs meet real-world APIs.
+2023 ─ Marineford
+Entered AI & Machine Learning.
 
-[![Explore](https://img.shields.io/badge/Explore%20Gear%203-181717?style=for-the-badge&logo=github)](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203)
+2024 ─ Wano Country
+Built AI and Computer Vision projects.
 
-</td>
-<td width="50%" align="center">
+2025 ─ Egghead Island
+Building real-world AI applications.
 
-### ⚙️⚙️⚙️⚙️ Gear 4 — Computer Vision
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxMzJ5OWNieTB6ZDBveTV4MHhxM2E0ZHB3enhiejI0ZDR5MHlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7gdXSIVy5RnEHvFTh/giphy.gif" width="100%" />
+2027 ─ Final Saga
+⚡ Gear 5 Awakening
+```
+# 💰 Pirate Statistics
 
-**Shadow Clone Jujutsu** — MediaPipe, TFLite, real-time hand sign detection.
+<div align="center">
 
-[![Explore](https://img.shields.io/badge/Explore%20Gear%204-181717?style=for-the-badge&logo=github)](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HAIDERALiiii01&show_icons=true&theme=tokyonight"/>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HAIDERALiiii01&theme=tokyonight"/>
 
-### 🔥 Gear 5 — Coming Soon
+</div>
 
-<img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="40%" />
+<div align="center">
 
-**The Final Form.** Something big is being built. Stay tuned. 👁️
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAIDERALiiii01&theme=tokyonight">
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAIDERALiiii01&theme=tokyo-night"/>
 
-| Project | Description | Tech |
-|---|---|---|
-| 🥷 **[Shadow Clone Jujutsu](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204/Shadow_Clone_Jujutsu)** | Perform a hand sign → shadow clones appear in real time | Python, MediaPipe, TFLite, OpenCV |
-| 🫰 **[Snap — The Infinity Gauntlet](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%202/Snap)** | Select a folder, press SNAP, and half the files are deleted | Python, PySide6 |
-| ✈️ **[FlightAI](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/FlightAi(with%20image%20generation))** | Ask about flights, get a price, watch DALL-E paint your destination | Python, GPT-4o-mini, DALL-E 3, Gradio |
-| 📄 **[Brochure Generator](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/Brochure_Generator(Ai_based))** | Paste a company URL → get a full AI-generated brochure instantly | Python, GPT-4o-mini, Gemini 2.0, Gradio |
+</div>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAIDERALiiii01&theme=tokyonight" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HAIDERALiiii01&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAIDERALiiii01&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <i>"The harder thing to do and the right thing to do are usually the same thing."</i>
-</p>
+</div>
