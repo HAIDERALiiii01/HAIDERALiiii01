@@ -49,38 +49,51 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+# 👨‍💻 About Me
 
-# 👨‍💻 ABOUT ME
+<table>
+<tr>
 
-```python
-haider = {
+<td width="35%" align="center">
 
-    "role": "AI & Machine Learning Developer",
+<img src="https://media.tenor.com/GY6R7i3vWQ8AAAAi/luffy.gif" width="150">
 
-    "focus": [
-        "Computer Vision",
-        "LLMs",
-        "Deep Learning",
-        "AI Applications"
-    ],
+### 🏴‍☠️ AI Pirate
 
-    "personality": [
-        "Introvert",
-        "Thinker",
-        "Builder"
-    ],
+⚡ Future Tech Builder
 
-    "fuel": "Coffee ☕",
+☕ Powered by Coffee
 
-    "motto":
-    "Dream Big. Build Bigger."
+🚀 Dream Big. Build Bigger.
 
-}
+</td>
+
+<td width="65%">
+
+```yaml
+Role:
+  AI & Machine Learning Developer
+
+Current Focus:
+  • Computer Vision
+  • LLMs
+  • Deep Learning
+  • AI Applications
+
+Personality:
+  • Introvert
+  • Thinker
+  • Builder
+
+Motto:
+  Build in silence.
+  Let the projects speak.
 ```
 
----
+</td>
 
-# 🍈 DEVIL FRUITS ACQUIRED
+</tr>
+</table># 🍈 DEVIL FRUITS ACQUIRED
 
 | Fruit | Status |
 |---------|--------|
