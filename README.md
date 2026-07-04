@@ -153,7 +153,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 ### ⚽ Fifa_Box — World Cup RAG Assistant
 <p align="center">
-  <img src="[https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEzcnpicnBtNmV1YjJwcnBrajlpbDFvaThxb3QxbjRoMGhnNHhqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLWTWCg96RA0btDUm0/giphy.gif)" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEzcnpicnBtNmV1YjJwcnBrajlpbDFvaThxb3QxbjRoMGhnNHhqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLWTWCg96RA0btDUm0/giphy.gif" width="100%">
 </p>
 
 - 📌 Ask about winners, records, or iconic moments — a hybrid vector + BM25 RAG pipeline answers, grounded in real World Cup history, inside a stadium-themed desktop UI
