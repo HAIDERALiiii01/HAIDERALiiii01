@@ -85,7 +85,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxMzJ5OWNieTB6ZDBveTV4MHhxM2E0ZHB3enhiejI0ZDR5MHlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7gdXSIVy5RnEHvFTh/giphy.gif" width="100%" />
 </p>
 
-**Computer Vision.** **Shadow Clone Jujutsu** — MediaPipe, TFLite, real-time hand sign detection.
+**Vision & Retrieval.** **Shadow Clone Jujutsu** — MediaPipe, TFLite, real-time hand sign detection. **Fifa_Box** — a World Cup RAG assistant.
 
 🔗 [Explore Gear 4](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204)
 
@@ -151,14 +151,14 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 </td>
 <td width="50%">
 
-### 📄 Brochure Generator — AI Based
+### ⚽ Fifa_Box — World Cup RAG Assistant
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhtOXZ1ZGNtOHIyMG1jNzQzcmNpeHpybmQ5dHQ3Yml3dTBvNm4zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zJ5udfK9zBcyJDD7xz/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%">
 </p>
 
-- 📌 Paste a company URL and get a full AI-generated brochure instantly
-- ⚙️ Tech: Python, GPT-4o-mini, Gemini 2.0, Gradio, BeautifulSoup
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/Brochure_Generator(Ai_based))
+- 📌 Ask about winners, records, or iconic moments — a hybrid vector + BM25 RAG pipeline answers, grounded in real World Cup history, inside a stadium-themed desktop UI
+- ⚙️ Tech: Python, ChromaDB, OpenAI Embeddings, BM25, Cross-Encoder Reranking, pywebview
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204/Fifa_Box)
 
 </td>
 </tr>
@@ -172,29 +172,12 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
   <img src="https://media.tenor.com/0KSf4JH7N0cAAAAi/luffy-one-piece.gif" width="120">
 </p>
 
-```text
-╔══════════════════════════════════════╗
-║       MONKEY D. HAIDER STATUS        ║
-╠══════════════════════════════════════╣
-║ 🐍 Python Mastery      ██████████ 95 ║
-║ 🤖 AI & ML             █████████  90 ║
-║ 👁 Computer Vision     ████████   85 ║
-║ 🧠 LLM Development     ████████   82 ║
-║ ⚙ Problem Solving      █████████  88 ║
-║ 🚀 Creativity          ██████████ 99 ║
-║ ☕ Coffee Energy        ███████████∞ ║
-╠══════════════════════════════════════╣
-║ CLASS   : AI Developer               ║
-║ STATUS  : Training for Gear 5        ║
-║ TITLE   : Future ML Engineer         ║
-║ BOUNTY  : 9000+ ⭐                    ║
-╚══════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAIDERALiiii01&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=120&section=footer&text=Gear%205%20Loading...&fontColor=ffffff"/>
-
+  <b>⚓ One log, one journal, one adventure at a time. ⚓</b>
 </p>
 
 <div align="center">
