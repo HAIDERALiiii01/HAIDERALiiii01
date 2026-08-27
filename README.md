@@ -188,13 +188,20 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 </div>
 
----### 📫 Connect With Me
+### 📫 Connect With Me
 <p align="center">
   <a href="https://instagram.com/haii_d_er" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=instagram"
       height="45"
       style="margin: 0 15px; filter: drop-shadow(0 0 8px #E1306C);"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/haider-ali-2721a4421/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="45"
+      style="margin: 0 15px; filter: drop-shadow(0 0 8px #0A66C2);"
     />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A" target="_blank">
@@ -205,8 +212,5 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
     />
   </a>
 </p>
-
----
-
 ### 💡 Quote
 > **"Do you know that the harder thing to do and the right thing to do are usually the same thing?"**
