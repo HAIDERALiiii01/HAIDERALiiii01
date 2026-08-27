@@ -182,9 +182,11 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=HAIDERALiiii01&theme=chartreuse-dark&show_icons=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAIDERALiiii01&theme=react-dark&hide_border=true&area=true&line=39FF14&point=00FF00&bg_color=0D1117" width="95%" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HAIDERALiiii01&theme=chartreuse-dark&hide_border=true)
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HAIDERALiiii01&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" />
 
 </div>
 
@@ -212,5 +214,6 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
     />
   </a>
 </p>
+
 ### 💡 Quote
 > **"Do you know that the harder thing to do and the right thing to do are usually the same thing?"**
