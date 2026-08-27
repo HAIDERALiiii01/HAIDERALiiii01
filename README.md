@@ -165,31 +165,6 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 </table>
 
 ---
-
-## ⚔️ Power Level — Training Arc
-
-<p align="center">
-  <img src="https://media.tenor.com/0KSf4JH7N0cAAAAi/luffy-one-piece.gif" width="120">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HAIDERALiiii01&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <b>⚓ One log, one journal, one adventure at a time. ⚓</b>
-</p>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAIDERALiiii01&theme=react-dark&hide_border=true&area=true&line=39FF14&point=00FF00&bg_color=0D1117" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HAIDERALiiii01&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%" />
-
-</div>
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://instagram.com/haii_d_er" target="_blank">
