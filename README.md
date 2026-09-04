@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Haider Ali</h1>
-<p align="center">
+<h1 align="center">Hi 👋🏻, I'm Haider Ali</h1><p align="center">
   <img src="https://giffiles.alphacoders.com/220/220047.gif" alt="Gear 3" width="800"/>
 </p>
 <h3 align="center">
