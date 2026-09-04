@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋🏻, I'm Haider Ali</h1><p align="center">
+<h1 align="center">Hi 👋🏻, I'm Haider Ali</h1>
+
+<p align="center">
   <img src="https://giffiles.alphacoders.com/220/220047.gif" alt="Gear 3" width="800"/>
 </p>
+
 <h3 align="center">
 A passionate AI & Machine Learning developer building real-world projects 🚀
 </h3>
+
 <p align="center">
   <img src="./assets/220047.gif" alt="Gear" width="800"/>
 </p>
@@ -11,7 +15,8 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **RAG, Computer Vision, Ai Applications, Personal Projects**
+
+- 🔭 Working on **RAG, Computer Vision, AI Applications, Agentic AI & Personal Projects**
 - 🌱 Learning **LLMs, Machine Learning, AI fundamentals**
 - 🤝 Open to **AI / ML collaborations**
 - ⚡ Fun fact: **Even BATMAN🦇 prefers dark mode.**
@@ -19,6 +24,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ---
 
 ### 🧠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,opencv,tensorflow,git,html,css,selenium,pandas" />
 </p>
@@ -42,6 +48,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 <td width="50%" align="center">
 
 ### Gear 1
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNjNHJoYXp3dmFnM3c4bGsya21nMDZiMXFnOG95d3duamc3eDRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZ8HKcnfNWCOI/giphy.gif" width="100%" />
 </p>
@@ -51,9 +58,11 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 🔗 [Explore Gear 1](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%201)
 
 </td>
+
 <td width="50%" align="center">
 
 ### Gear 2
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXphdTgzZW5wMzNkamVwNGF6cTlvZjloMGczNnVhamNobmQ3dmwyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="100%" />
 </p>
@@ -64,22 +73,26 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
 
 ### Gear 3
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkbGt5cmtqOGxzYW9yeGV4b2Q2bXI1OW01MTh2bXdsbmJ1OG15cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T9lEux2hPQYne/giphy.gif" width="100%" />
 </p>
 
-**AI Powered.** **FlightAI** + **Brochure Generator** — LLMs and real-world APIs.
+**AI Powered.** **Brochure Generator** and other projects exploring LLMs and real-world APIs.
 
 🔗 [Explore Gear 3](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203)
 
 </td>
+
 <td width="50%" align="center">
 
 ### Gear 4
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MxMzJ5OWNieTB6ZDBveTV4MHhxM2E0ZHB3enhiejI0ZDR5MHlkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7gdXSIVy5RnEHvFTh/giphy.gif" width="100%" />
 </p>
@@ -90,15 +103,21 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
 
-### Gear 5 — Coming Soon 🔥
+### Gear 5
+
 <p align="center">
   <img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="50%" />
 </p>
 
-**The Final Form.** Something big is being built. Stay tuned. 👁️
+**This is my Peak! 🔥**
+
+**DealScout** — an AI-powered deal hunting system that combines web scraping, price prediction, and agentic decision-making to find and deliver the best deals.
+
+🔗 [Explore Gear 5](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%205)
 
 </td>
 </tr>
@@ -113,6 +132,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 <td width="50%">
 
 ### 🥷 Shadow Clone Jujutsu
+
 <p align="center">
   <img src="https://media1.tenor.com/m/W4O0eoqdaREAAAAC/naruto-naruto-shippuden.gif" width="100%">
 </p>
@@ -122,9 +142,11 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 - 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%204/Shadow_Clone_Jujutsu)
 
 </td>
+
 <td width="50%">
 
 ### 🫰 Snap — The Infinity Gauntlet
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZqMmtiYjZxaHQwZm15endna3czb3R5cmVpcjY1M3JicjBuN3pzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xejJnePNcOWoHOo/giphy.gif" width="100%">
 </p>
@@ -135,22 +157,28 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### ✈️ FlightAI — With Image Generation
+### 🤖 DealScout — AI Deal Hunter
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9odjRmcGZjMHRzOXkzamFmNnZqaHVqNDNjNnNzODY2bXB1dDJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Btn42lfKKrOzS/giphy.gif" width="100%">
+  <img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="100%">
 </p>
 
-- 📌 Ask about flights, get the price, and watch DALL-E paint your destination
-- ⚙️ Tech: Python, GPT-4o-mini, DALL-E 3, Gradio
-- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%203/FlightAi(with%20image%20generation))
+- 📌 Finds product deals, predicts prices, evaluates opportunities, and delivers the best deal
+- 🧠 Uses **AI agents, autonomous planning, price prediction, web scraping & deal evaluation**
+- ⚙️ Tech: Python, AI Agents, Machine Learning, ChromaDB, Web Scraping
+- 🚀 Built to let AI **hunt, analyze, decide, and deliver** instead of simply searching for products
+- 🔗 [GitHub Link](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%205/DealScout)
 
 </td>
+
 <td width="50%">
 
 ### ⚽ Fifa_Box — World Cup RAG Assistant
+
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEzcnpicnBtNmV1YjJwcnBrajlpbDFvaThxb3QxbjRoMGhnNHhqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLWTWCg96RA0btDUm0/giphy.gif" width="100%">
 </p>
@@ -164,7 +192,9 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 </table>
 
 ---
+
 ### 📫 Connect With Me
+
 <p align="center">
   <a href="https://instagram.com/haii_d_er" target="_blank">
     <img
@@ -173,6 +203,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
       style="margin: 0 15px; filter: drop-shadow(0 0 8px #E1306C);"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/haider-ali-2721a4421/" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
@@ -180,6 +211,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
       style="margin: 0 15px; filter: drop-shadow(0 0 8px #0A66C2);"
     />
   </a>
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=haiderali13082005@gmail.com&su=Hello%20Haider&body=Hi%20Haider,%0A%0A" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=gmail"
@@ -190,4 +222,5 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 </p>
 
 ### 💡 Quote
-> **"Do you know that the harder thing to do and the right thing to do are usually the same thing?"**
+
+> **"As long as you are alive, there are infinite chances."**
