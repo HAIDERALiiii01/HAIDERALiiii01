@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Haider Ali</h1>
 <p align="center">
-  <img src="[url=https://gifs.alphacoders.com/gifs/view/220047][img]https://giffiles.alphacoders.com/220/thumb-220047.jpg[/img][/url]" alt="Gear 3" width="800"/>
+  <img src="https://giffiles.alphacoders.com/220/220047.gif" alt="Gear 3" width="800"/>
 </p>
 <h3 align="center">
 A passionate AI & Machine Learning developer building real-world projects 🚀
