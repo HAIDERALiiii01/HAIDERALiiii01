@@ -5,7 +5,7 @@
 A passionate AI & Machine Learning developer building real-world projects 🚀
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+ML%2FAI;Building+Personal+Projects&cursor=|" />
+  <img src="./assets/220047.gif" alt="Gear" width="800"/>
 </p>
 
 ---
