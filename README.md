@@ -115,8 +115,6 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 
 **This is my Peak! 🔥**
 
-**DealScout** — an AI-powered deal hunting system that combines web scraping, price prediction, and agentic decision-making to find and deliver the best deals.
-
 🔗 [Explore Gear 5](https://github.com/HAIDERALiiii01/ProjecTss/tree/main/Gear%205)
 
 </td>
@@ -164,7 +162,7 @@ A passionate AI & Machine Learning developer building real-world projects 🚀
 ### 🤖 DealScout — AI Deal Hunter
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/sWkOaRAduFgAAAAC/gear-5-luffy-luffy-gear-5.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE2cGdmNXZmMXM0bXFibzV5cTJkcTl0d2J2cGEycjFrc3BjZHN6ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z2D26GunfUK1W/giphy.gif" width="100%">
 </p>
 
 - 📌 Finds product deals, predicts prices, evaluates opportunities, and delivers the best deal
